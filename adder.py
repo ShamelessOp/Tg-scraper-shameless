@@ -15,13 +15,13 @@ re="\033[1;31m"
 gr="\033[1;32m"
 cy="\033[1;36m"
 
-print (re+"╔╦╗┌─┐┬  ┌─┐╔═╗  ╔═╗┌┬┐┌┬┐┌─┐┬─┐")
-print (gr+" ║ ├┤ │  ├┤ ║ ╦  ╠═╣ ││ ││├┤ ├┬┘")
-print (re+" ╩ └─┘┴─┘└─┘╚═╝  ╩ ╩─┴┘─┴┘└─┘┴└─")
+print (re+"╔╦╗╔═╗  ╔═╗┌┬┐┌┬┐┌─┐┬─┐")
+print (gr+" ║ ║ ╦  ╠═╣ ││ ││├┤ ├┬┘")
+print (re+" ╩ ╚═╝  ╩ ╩─┴┘─┴┘└─┘┴└─")
 
 print (cy+"version : 1.01")
-print (cy+"Make sure you Subscribed Termux Professor On Youtube")
-print (cy+"www.youtube.com/c/TermuxProfessorYT")
+print (cy+"SHameless0_0")
+print (cy+"Go!!!")
 
 print (re+"NOTE :")
 print ("1. Telegram only allow to add 200 members in group by one user.")
